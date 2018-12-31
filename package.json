@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
+    "faker": "^4.1.0",
+    "formik": "^1.4.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-icons": "^3.2.2",
+    "react-redux": "^6.0.0",
+    "react-scripts": "2.1.2",
+    "reactstrap": "6.5.0",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.4",
+    "xlsx": "^0.14.1"
   },
   "scripts": {
     "start": "react-scripts start",
